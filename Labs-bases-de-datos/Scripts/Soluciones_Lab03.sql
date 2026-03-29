@@ -1,6 +1,6 @@
 -- LABORATORIO 3 - TELEMEDICINA PROACTIVA
 
-SET search_path TO "JoseC_Ariel";
+SET search_path TO JoseC_Ariel;
 
 
 -- =============================================
