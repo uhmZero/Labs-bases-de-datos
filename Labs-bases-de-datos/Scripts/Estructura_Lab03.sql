@@ -1,7 +1,7 @@
 -- LABORATORIO 3 - TELEMEDICINA PROACTIVA
 
-CREATE SCHEMA IF NOT EXISTS estudiante1_estudiante2;
-SET search_path TO estudiante1_estudiante2;
+CREATE SCHEMA IF NOT EXISTS JoseC_Ariel;
+SET search_path TO JoseC_Ariel;
 
 -- USUARIO
 CREATE TABLE usuario (
